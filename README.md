@@ -1,5 +1,4 @@
-### Eu sou Patrick da Silva Pinto Almeida
-## Tenho 16 anos e programação é meu estilo de vida, aprendi sozinho e com ajuda de Youtube
+## Tenho 16 anos e programação é meu estilo de vida, aprendo programação sozinho e com ajuda de Youtube
 
 - Comecei a Programar aos 12 anos
 - Já programei jogos pra trabalhos escolares, porém eu perdi os executaveis (só sobrou 1 vídeo de 1 deles)
